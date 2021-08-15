@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-• 👋 Hey, I'm 2dvoid
+• 👋 Hey, I'm Ξmon
 
 • 🧑‍💻 I'm a Tech Enthusiast
 
