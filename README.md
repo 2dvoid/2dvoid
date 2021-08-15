@@ -1,4 +1,3 @@
-![tumblr_p3e0wyutkU1wzvt9qo4_500 gifv](https://user-images.githubusercontent.com/65068418/129467156-8aa66921-5814-46c9-a4df-8186f93b9979.gif)
 
 
 <!--
@@ -19,3 +18,5 @@ Here are some ideas to get you started:
 • 👋 Hey, I'm 2dvoid
 
 • 🧑‍💻 I'm a Tech Enthusiast
+
+![tumblr_p3e0wyutkU1wzvt9qo4_500 gifv](https://user-images.githubusercontent.com/65068418/129467156-8aa66921-5814-46c9-a4df-8186f93b9979.gif)
